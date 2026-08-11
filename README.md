@@ -31,7 +31,7 @@ Before exporting, you may wish to run **Tools → Check Database**. Anki retains
 
 The keyboard shortcuts can be changed in the add-on’s configuration dialog:
 
-**Tools → Add-ons → 𝕾 Export Tags as Text → Config**
+**Tools → Add-ons → Export Tags as Text → Config**
 
 The default configuration is:
 
@@ -66,9 +66,7 @@ The add-on exports Anki’s registered tag list, which may include unused tags. 
 
 ## Compatibility
 
-Tested with Anki 26.08 on macOS Tahoe 26.5.
-
-Windows and Linux have not yet been tested.
+Tested with Anki 26.08 on macOS Tahoe 26.5. Windows and Linux have not yet been tested.
 
 ## Version
 
