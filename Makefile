@@ -10,11 +10,10 @@ FILES := \
 
 .PHONY: package clean
 
-package: $(PACKAGE)
-
-$(PACKAGE): $(FILES)
-	rm -f "$@"
-	zip -X -MM -T "$@" $(FILES)
+package:
+	rm -f "$(PACKAGE)"
+	zip -X -MM -T "$(PACKAGE)" $(FILES)
+	unzip -l "$(PACKAGE)"
 
 clean:
 	rm -f "$(PACKAGE)"
