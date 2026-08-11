@@ -4,11 +4,11 @@ Tags provide a many-to-many classification of the notes in an Anki collection: a
 
 This add-on exports a collection’s complete tag list as sorted plain text, either to the clipboard or to a file. The result can be inspected directly, compared over time, or supplied to an LLM for analysis of the tag system or as context for assessing or generating notes.
 
-**Export Tags as Text** is designed specifically to complement [Selected Notes to Structured Text](https://ankiweb.net/shared/info/1694585841). The former supplies collection-level context; the latter supplies the notes to be assessed or used as models.
+**Export Tags as Text** is designed to complement **[Selected Notes to Structured Text](https://github.com/schmidhauser/anki-selected-notes-to-structured-text)**. The former supplies collection-level context; the latter supplies the notes to be assessed or used as models.
 
 ## Installation
 
-Install **Export Tags as Text** from [AnkiWeb](https://ankiweb.net/shared/info/xxx) using add-on code `…`.
+Install **Export Tags as Text** from [AnkiWeb](https://ankiweb.net/shared/info/550673409) using add-on code `550673409`.
 
 ## Usage
 
@@ -31,7 +31,7 @@ Before exporting, you may wish to run **Tools → Check Database**. Anki retains
 
 The keyboard shortcuts can be changed in the add-on’s configuration dialog:
 
-**Tools → Add-ons → Export Tags as Text → Config**
+**Tools → Add-ons → 𝕾 Export Tags as Text → Config**
 
 The default configuration is:
 
