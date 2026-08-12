@@ -12,16 +12,16 @@ Install **Export Tags as Text** from [AnkiWeb](https://ankiweb.net/shared/info/5
 
 ## Usage
 
+  <img src="export-tags-as-text-tools-menu.png"
+       alt="Tools menu showing Copy Tags as Text and Save Tags as Text…"
+       align="right" width="232">
+
 Choose either of the following menu items:
 
 * **Tools → Copy Tags as Text**
 * **Tools → Save Tags as Text…**
 
-Both commands export the same tag list. **Copy Tags as Text** places it on the clipboard; **Save Tags as Text…** writes it to a UTF-8 text file. Saved files have a default filename of the form:
-
-```text
-anki-tags-YYYY-MM-DD.txt
-```
+Both commands export the same tag list: **Copy Tags as Text** places it on the clipboard; **Save Tags as Text…** writes it to a UTF-8 text file, by default named `anki-tags-YYYY-MM-DD.txt`.
 
 After copying or saving, Anki reports the total number of tags and the number of top-level tags.
 
