@@ -4,6 +4,8 @@ This add-on exports a collection’s complete tag list as sorted plain text, eit
 
 **Export Tags as Text** is designed to complement **[Selected Notes to Structured Text](https://ankiweb.net/shared/info/1694585841)**. The former supplies collection-level context; the latter supplies the notes to be assessed or used as models.
 
+<img src="https://raw.githubusercontent.com/schmidhauser/anki-export-tags-as-text/refs/heads/main/export-tags-as-text-tools-menu.png" align="right" width="232">
+
 ## Usage
 
 Choose either of the following menu items:
